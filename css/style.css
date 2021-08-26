@@ -795,6 +795,7 @@ p {
   }
 
   .navbar .link-login-xs{
+    display: block !important;
     position: absolute;
     right: 20px; 
     margin-top: 10px; 
